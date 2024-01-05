@@ -7,6 +7,9 @@ import { far } from '@fortawesome/free-regular-svg-icons'
 import TopBar from './components/topbar/TopBar';
 import About from './components/about/About';
 import SubmitForm from './components/form/SubmitForm';
+import Mentors from './components/mentors/Mentors';
+import wave from "./images/wave.png";
+
 
 function App() {
 
@@ -41,11 +44,12 @@ function App() {
       <div id="about">
         <About />
       </div>
+      <img src={wave} />
       <div id="form">
         <SubmitForm />
       </div>
-      <div id="mentors" className="block">
-        MENTORS
+      <div id="mentors">
+        <Mentors />
       </div>
       <div id="faq" className="block">
         FAQ

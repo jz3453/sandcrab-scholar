@@ -3,7 +3,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin: 120px 0;
+  margin: 120px 0 120px 0;
 }
 
 .container {
@@ -28,6 +28,24 @@
 
 .arrow-icon {
   margin: 0 5px;
+}
+
+.form-btn {
+  background-color: #0309A3;
+  border: none;
+  border-radius: 20px;
+  height: 40px;
+  width: 200px;
+  font-size: 15px;
+  cursor: pointer;
+  outline: inherit;
+}
+
+a {
+  text-decoration: none;
+  color: #FFFFFF;
+  font-size: 18px;
+  font-weight: 500;
 }
 
 @media (max-width: 767px) {

@@ -40,7 +40,7 @@ const SubmitForm = () => {
           <div className="section-subtitle">What To Get Matched?</div>
           <button className="form-btn">
             <a href="https://forms.gle/K4baCENJ8tdhUtgo7" target="_blank">
-              Submit A Form
+              SUBMIT A FORM
             </a>
           </button>
         </div>
