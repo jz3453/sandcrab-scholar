@@ -1,5 +1,6 @@
 .our-mentors {
-    background-color: #ECC462;
+  background-color: #ECC462;
+  color: #0309A3;
 }
 
 .mentors-section {
@@ -22,7 +23,7 @@
 .logo {
   height: 120px;
   width: auto;
-  margin: 0 10px;
+  margin: 5px 10px;
 }
 
 .note {

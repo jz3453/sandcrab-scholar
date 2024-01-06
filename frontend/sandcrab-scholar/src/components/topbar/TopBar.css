@@ -45,3 +45,10 @@
 .link:hover {
   text-decoration: underline;
 }
+
+@media (max-width: 767px) {
+
+  .page-title {
+    font-size: 26px;
+  }
+}

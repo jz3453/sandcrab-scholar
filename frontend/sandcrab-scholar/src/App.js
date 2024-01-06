@@ -8,6 +8,8 @@ import TopBar from './components/topbar/TopBar';
 import About from './components/about/About';
 import SubmitForm from './components/form/SubmitForm';
 import Mentors from './components/mentors/Mentors';
+import FAQ from './components/faq/FAQ';
+import Contact from './components/contact/Contact';
 import wave from "./images/wave.png";
 
 
@@ -51,11 +53,11 @@ function App() {
       <div id="mentors">
         <Mentors />
       </div>
-      <div id="faq" className="block">
-        FAQ
+      <div id="faq">
+        <FAQ />
       </div>
-      <div id="contact" className="block">
-        CONTACT
+      <div id="contact">
+        <Contact />
       </div>
     </div>
   );

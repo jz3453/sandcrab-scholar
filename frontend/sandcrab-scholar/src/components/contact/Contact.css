@@ -1,0 +1,38 @@
+.contact-wrapper {
+  background-color: #0309A3;
+}
+
+.contact-section {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  margin: 120px 0 120px 0;
+}
+
+.contact {
+  color: #FFFFFF;
+  margin: 0 0 10px 0;
+  font-size: 24px;
+}
+
+.email-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 0 0 10px 0;
+}
+
+.email-icon {
+  color: #FFFFFF !important;
+  margin-right: 5px;
+}
+
+.contact-email {
+  color: #FFFFFF;
+  font-size: 15px;
+  font-weight: 500;
+  cursor: pointer;
+}
