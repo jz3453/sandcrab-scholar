@@ -12,7 +12,7 @@
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
-  margin: 0px -5px 60px -5px;
+  margin: 0px -5px 40px -5px;
   width: 100%;
 }
 
@@ -48,6 +48,12 @@ a {
   color: #FFFFFF;
   font-size: 18px;
   font-weight: 500;
+}
+
+.sanddollar {
+  width: 100px;
+  height: auto;
+  margin-bottom: 15px;
 }
 
 @media (max-width: 767px) {

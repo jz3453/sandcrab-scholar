@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import "./SubmitForm.css";
 import "../../App.css";
+import sanddollar from "../../images/sanddollar.png";
 
 const SubmitForm = () => {
   return (
@@ -37,6 +38,7 @@ const SubmitForm = () => {
               </div>
             </div>
           </div>
+          <img className="sanddollar" src={sanddollar} alt="Sand Dollar" />
           <div className="section-subtitle">What To Get Matched?</div>
           <button className="form-btn">
             <a href="https://forms.gle/K4baCENJ8tdhUtgo7" target="_blank">
