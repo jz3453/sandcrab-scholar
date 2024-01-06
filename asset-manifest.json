@@ -1,8 +1,10 @@
 {
   "files": {
-    "main.css": "/sandcrab-scholar/static/css/main.db03a733.css",
-    "main.js": "/sandcrab-scholar/static/js/main.0f8315f0.js",
+    "main.css": "/sandcrab-scholar/static/css/main.ca09a7ed.css",
+    "main.js": "/sandcrab-scholar/static/js/main.70983f44.js",
     "static/media/scholar.png": "/sandcrab-scholar/static/media/scholar.b29a3838fd01a63137d9.png",
+    "static/media/shell.png": "/sandcrab-scholar/static/media/shell.82eeea6122b4ac881805.png",
+    "static/media/sanddollar.png": "/sandcrab-scholar/static/media/sanddollar.a2c39bf493208d82903f.png",
     "static/media/UT-icon.png": "/sandcrab-scholar/static/media/UT-icon.80701d8c82fe68df8797.png",
     "static/media/A&M-icon.png": "/sandcrab-scholar/static/media/A&M-icon.4938a7320daed411e8bf.png",
     "static/media/Columbia-icon.png": "/sandcrab-scholar/static/media/Columbia-icon.dd608223e284ee7f1ff4.png",
@@ -10,11 +12,11 @@
     "static/media/wave.png": "/sandcrab-scholar/static/media/wave.60bb95473f91bac7e780.png",
     "static/media/Cornell-icon.png": "/sandcrab-scholar/static/media/Cornell-icon.25219d82d0f670f94fab.png",
     "index.html": "/sandcrab-scholar/index.html",
-    "main.db03a733.css.map": "/sandcrab-scholar/static/css/main.db03a733.css.map",
-    "main.0f8315f0.js.map": "/sandcrab-scholar/static/js/main.0f8315f0.js.map"
+    "main.ca09a7ed.css.map": "/sandcrab-scholar/static/css/main.ca09a7ed.css.map",
+    "main.70983f44.js.map": "/sandcrab-scholar/static/js/main.70983f44.js.map"
   },
   "entrypoints": [
-    "static/css/main.db03a733.css",
-    "static/js/main.0f8315f0.js"
+    "static/css/main.ca09a7ed.css",
+    "static/js/main.70983f44.js"
   ]
 }
